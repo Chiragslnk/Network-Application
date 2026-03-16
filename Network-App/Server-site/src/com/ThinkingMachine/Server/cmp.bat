@@ -1,0 +1,1 @@
+javac -classpath X:\practices\javaeg\tech4\Network-App\Server-site\dependencies\*;X:\practices\javaeg\tech4\Network-App\Server-site\classes;. -d X:\practices\javaeg\tech4\Network-App\Server-site\classes *.java

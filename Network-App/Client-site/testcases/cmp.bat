@@ -1,0 +1,1 @@
+javac -classpath x:\practices\javaeg\tech4\network-app\client-site\dependencies\*;x:\practices\javaeg\tech4\network-app\client-site\classes;. TestAddStudent.java

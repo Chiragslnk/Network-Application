@@ -1,0 +1,1 @@
+java -classpath X:\practices\javaeg\tech4\Network-App\Server-site\dependencies\*;X:\practices\javaeg\tech4\Network-App\Server-site\classes;. com.thinkingmachine.server.SchoolAppServer 
